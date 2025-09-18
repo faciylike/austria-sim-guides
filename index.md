@@ -58,3 +58,10 @@ layout: default
 
 　　最后别忘了，网络只是工具，别让它完全占据你的视野。放下手机，多看看维也纳的美景，尝尝萨尔茨堡的莫扎特巧克力，感受一下格拉茨的复古与现代交融，那才是旅行的真正意义。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Austria eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/austria-data-plans)
